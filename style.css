@@ -1,0 +1,19 @@
+.rgb-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: black;
+  color: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+body {
+  transition-property: background;
+  transition-duration: 2s;
+}
